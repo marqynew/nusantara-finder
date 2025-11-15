@@ -33,12 +33,12 @@ Before you can run this project, you will need to install the following:
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/domestic-destination-search-engine.git
+    git clone https://github.com/marqynew/nusantara-finder
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd domestic-destination-search-engine
+    cd nusantara-finder\app
     ```
 
 3. Run the application:
